@@ -1,8 +1,8 @@
 :root {
     --primary-color: #4caf50;
     --secondary-color: #ffffff;
-    --background-light: url('images/Bg.png'); /* Add your light theme background image here */
-    --background-dark: url('images/bgImg.png'); /* Add your dark theme background image here */
+    --background-light: url('Bg.png'); /* Add your light theme background image here */
+    --background-dark: url('bgImg.png'); /* Add your dark theme background image here */
     --text-light: #ffffff;
     --text-dark: #000000;
     --heading-light: #000000; /* Dark heading for light theme */
